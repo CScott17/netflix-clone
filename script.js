@@ -1,0 +1,7 @@
+// api key fb2f84cce269c37f963087c69ca8e276
+
+//api read access token eyJhbGciOiJIUzI1NiJ9
+//.eyJhdWQiOiJmYjJmODRjY2UyNjljMzdmOTYzMDg3Y
+//zY5Y2E4ZTI3NiIsInN1YiI6IjY1OTU4MmEyNTkwN2R
+//lNzViNjYzYmVlZCIsInNjb3BlcyI6WyJhcGlfcmVhZC
+//JdLCJ2ZXJzaW9uIjoxfQ.muLz5eYWWHv58WeXnxE0jsDGxcN9SKw0v3-9NyXTGpE
